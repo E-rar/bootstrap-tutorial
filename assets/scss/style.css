@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+body{
+    font-family:Staatliches!important;
+}
+.ul{
+    list-style:none;
+}
+a{
+    text-decoration:none!important;
+    /* color:white!important; */
+}
+body{
+    background: rgba(0, 0, 0, 0.8) url("../img/photo-1578300253266-dedd2cd40912.jfif") no-repeat center;
+    background-attachment:fixed;
+    background-color: black!important;
+}
+nav{
+    background-color: black;
+    position:fixed;
+}
+.dropdown,.btn, .btn-secondary ,.dropdown-toggle{
+    background-color: black!important;
+    height:20%!important;
+}
+.empty{
+    height:100vh;
+    display:block;
+}
+.card-text{
+    background-color: rgba(240, 255, 255, 0.158)!important;
+}
+.date{
+    background-color: aliceblue;
+}
+h1{
+    color:white!important;
+}
+#carouselExampleInterval{
+    margin:20% 0!important;
+
+}
+#about,#contact{
+    background-color: rgba(255, 235, 205, 0.466);
+    margin:20% 0;
+}
+.time-table{
+    background-color: rgba(255, 235, 205, 0.466);
+    margin:20% 0;
+    font-size:2rem;
+}
